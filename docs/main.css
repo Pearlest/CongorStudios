@@ -1,12 +1,12 @@
 .title{
     font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #064789;
+    color: #F3B391;
     text-align: center;
     margin-top: 200px;
     font-size: 30px;
 }
 body{
-    background-color: #EBF2FA;        
+    background-color: #FEFADC;        
 }
 
 .pfp{
@@ -21,7 +21,7 @@ body{
 
 .thing{
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;    
-    color: #427AA1;
+    color: #F6D4BA;
     text-align: center;
     font-size: 25px;
     margin-top: 50px;
@@ -32,12 +32,12 @@ body{
     display: inline-block;
     margin-left: 50%;
     font-size: 20px;
-    color: #427AA1;
+    color: #F6D4BA;
 }
 
 
 
 .icon:hover{
-    color:#064789 !important;
+    color:#F3B391 !important;
 }
 
